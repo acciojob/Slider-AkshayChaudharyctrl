@@ -90,7 +90,8 @@ const App = () => {
           Next
         </button>
       </div>
-      </div>
-)}
+    </div>
+  );
+};
 
 export default App;
